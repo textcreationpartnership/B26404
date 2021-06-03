@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of Charles Earl of Macclesfield, to the petition and appeal of Alexander Fytton, from a decree made in chancery, by the right honorable Edward Earl of Clarendon (then Lord Chancellor) the 27th day of November 14. Car. 2. And from a dismission of the said Fytton's bill of review, by the right honourable the now Lord Keeper.</title>
+            <author>Macclesfield, Charles Gerard, Earl of, 1659?-1701.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26404</idno><idno type="EEBO-CITATION">99826247</idno>
+  <idno type="VID">206028</idno>
+  <idno type="EEBO-PROQUEST">2240873393</idno>
+  
+            <idno type="STC">Wing M116A</idno>
+            <idno type="PROQUEST">99826247</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826247e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1762:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of Charles Earl of Macclesfield, to the petition and appeal of Alexander Fytton, from a decree made in chancery, by the right honorable Edward Earl of Clarendon (then Lord Chancellor) the 27th day of November 14. Car. 2. And from a dismission of the said Fytton's bill of review, by the right honourable the now Lord Keeper.</title>
+                  <author>Macclesfield, Charles Gerard, Earl of, 1659?-1701.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fytton, Alexander, --  Sir, d. 1699 --  Early works to 1800.</term>
+               <term type="personal_name">Clarendon, Edward Hyde, --  Earl of, 1609-1674 --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:206028:1"/>
+            <head>The Answer of <hi>Charles</hi> Earl of <hi>Macclesfield,</hi> to the Petition and Appeal of <hi>Alexander Fytton,</hi> from a Decree made in Chancery, by the Right Honorable <hi>Edward</hi> Earl of <hi>Clarendon</hi> (then Lord Chancellor) the <hi>27th</hi> day of <hi>November 14 Car. 2.</hi> And from a Dismission of the said <hi>Fytton's</hi> Bill of Review, by the Right Honourable the now Lord Keeper.</head>
+            <p>THis Respondent saving the benefit of Exception to the Un<g ref="char:EOLhyphen"/>truths, and Imperfections of the said Petition, in Obedience to the Order of this Honourable House, for Answer, saith, That Sir <hi>Edward Fytton,</hi> this Respondent's Uncle, having made a Lease of his Estate for Ninety nine Years to the Lord <hi>Wharton,</hi> and other Trustees, upon several Trusts in <hi>June,</hi> 10 <hi>Car.</hi> 1. settled the Inheritance to the Use of himself for Life; and after his Death, to the Use of <hi>Jane</hi> his then Wife for her Life: Remainder to the Use of the Heirs of his Body; the Remainder to this Respondent in Tayle, with power for the said Sir <hi>Edward</hi> to revoke by Deed or Will.</p>
+            <p>That Sir <hi>Edward Fytton</hi> in <hi>November</hi> 17 <hi>Car.</hi> 1. after the Death of <hi>Jane</hi> his Wife, settled the Estate to the use of himself in Tail, with the Remainder to such persons, and for such Estates, as he by Deed or Will, in the presence of two Witnesses should appoint. And if no such Appointment, to the use of <hi>William Fytton</hi> (a remote Kinsman) for Life, with the Remainder in Tail to the Now Petitioner <hi>Fytton</hi> his Son, with power of Revocation or Alteration, at his pleasure.</p>
+            <p>That Sir <hi>Edward Fytton,</hi> and this Respondent, being in the Actual Ser<g ref="char:EOLhyphen"/>vice of his Majesty King <hi>Charles</hi> the First, in the late Wars: He the said Sir <hi>Edward Fytton</hi> (according to his frequent Declarations) 16 <hi>August</hi> 19 <hi>Car.</hi> 1. duly made and published his Will in Writing, in the presence of Doctor <hi>Smallwood</hi> (late Dean of <hi>Litchfield</hi>) <hi>Francis Hollinshead</hi> Gent. and other persons, and thereby Revok't all former Settlements, and declared this Respondent (being one of his Co-heirs at Law) to be his Sole Heir, to whom he devised all his Estate, and soon after died without Issue, leaving the said Will in Doctor <hi>Small<g ref="char:EOLhyphen"/>wood</hi>'s Hands. After whose Death, this Respondent's Agents entred by vertue of the said Will, and received some Profits for some time: And this Respondent had Administration duly granted to him of the Estate of Sir <hi>Edward Fytton,</hi> with the said Will annexed. But the Wars increasing, and this Respondent continuing in the King's Service, could not attend his particular Affairs, being soon afterwards forced out of this Kingdom, for his Loyalty to his Prince; where he continued with his late, and present Majesties in Exile, till their most happy Restauration.</p>
+            <p>In which time <hi>Fytton's</hi> having set up several Titles to the said Estate, and gotten in some Incumbrances of the said Sir <hi>Edward Fytton's,</hi> and
+<pb n="2" facs="tcp:206028:2"/> there being several Suits between them, and the other Co-heirs; the <hi>Fyttons</hi> got Possession by the Settlement of 17 <hi>Car.</hi> 1.</p>
+            <p>That this Respondent, soon after the King's Restauration, in <hi>Easter</hi> Term, 1661. Exhibited his Bill in Chancery, against the Trustees in the Leafe for Ninety nine Years, against the Petitioner and his Father, and against the Co-heirs at Law, and others, complaining, That he was out of Possession, and could not make his Right appear, till his Maje<g ref="char:EOLhyphen"/>sties blessed Restauration, and that he then Entred; and the <hi>Fyttons</hi> did Combine to defeat him of the Estate, and to incumber it so, as he could not enjoy the possession of it. Of all which, among many other things, Discovery is prayed, and also of the Deeds and of the Titles, Claims, and Pretentions of the <hi>Fyttons,</hi> and other Defendants, and Relief upon the whole Matter. Whereunto the Defendants having Answered, and the <hi>Fyttons</hi> having in their Answer, insisted on their Title under the Settlement of <hi>November,</hi> 17 <hi>Car.</hi> 1. did set forth a Deed Poll, as a Re<g ref="char:EOLhyphen"/>lease of the Power of Revocation in <hi>April,</hi> 18 <hi>Car.</hi> 1. not mentioned in the former Suits with the Co-heirs; but contrived to Avoid this Re<g ref="char:EOLhyphen"/>spondents Title under the said Will, and that they knew not whether Sir <hi>Edward Fytton</hi> made such Will. Howbeit, 'twas not material to them whether there was such Will or not: For that the Power of Re<g ref="char:EOLhyphen"/>vocation was released by the said Deed Poll; so that the said <hi>Fyttons</hi> made their whole Title and Defence, on the Validity of the said Deed Poll, without so much as controverting in their Answer, the Reality of the Will, acknowledging by Answer, That they were in possession of the Estate, and had received the Profits thereof, and justi<g ref="char:EOLhyphen"/>fied the same under their said Title. And the Trustees having an<g ref="char:EOLhyphen"/>swered, that they were ready to Assign, as the Court should direct.</p>
+            <p>the 13th of <hi>June,</hi> 14 <hi>Ca.</hi> 2. the Cause came to be heard before the late Earl of <hi>Clarendon</hi> (then Lord Chancellor) upon reading the Proofs touching the pretended Deed Poll, and also touching the Will, and upon the View of the said pretended Deed and Will, his Lordship directed a Trial, to try whether the said Deed was Signed, Sealed, and Delivered by Sir <hi>Edward Fytton,</hi> and after the Tryal, either party might resort to the Chancery.</p>
+            <p>In <hi>Michaelmas</hi> Term 14 <hi>Car.</hi> 2. a Tryal was had at the Kings Bench Bar, by a Jury of Gentlemen of Reputation, who after a full and clear Evidence (besides that of <hi>Granger,</hi> one of the Agents in the Forgery) the Tryal lasting about Nine Hours, the Petitioners Deed Poll was found to be Forged. At which Tryal, though the Matter of the Will was not directly in Issue, yet the same, and Sir <hi>Edward Fyttons</hi> frequent Declarations of Kindness, and leaving his Estate to this Respondent, were fully proved and offered, together with many other Facts, as Circumstantial Evidence against the said pretended Deed Poll.</p>
+            <p>The 27th of <hi>November,</hi> 14 <hi>Car.</hi> II. the Cause coming after the said Verdict to be heard, for the final determination of the <hi>Chancery:</hi> it was decreed that the Trustees should Assign to this Respondent, or as this Respondent should appoint, and that the Possession should be delivered to this Respondent, and the Deeds brought into Court, the mean profits computed since the entry of the <hi>Fyttons,</hi> and Costs paid by the <hi>Fyttons;</hi> which Decree this Respondent insists was just
+<pb n="3" facs="tcp:206028:2"/> and well grounded. And yet the Court in favour to the Petitioner, declared, That notwithstanding the said Decree, the <hi>Fyttons</hi> might within twelve months bring an Action at Law for Tryal of their right upon the said Deed. At which the said Lease for 99 Years was not to be given in Evidence. And if the <hi>Fyttons</hi> should recover, did reserve a further consideration touching the said Lease, notwith<g ref="char:EOLhyphen"/>standing the Assignment; and the Examiner was to produce the pre<g ref="char:EOLhyphen"/>tended Deed-Poll at the Tryal. But if the <hi>Fyttons</hi> should not reco<g ref="char:EOLhyphen"/>ver a Verdict within that time, then the same was to be damned and made void.</p>
+            <p>That thereupon the <hi>Fyttons,</hi> within the Year according to the li<g ref="char:EOLhyphen"/>berty given them by the said Decree, did bring an Ejectment against this Respondent, which came to be Tryed the second day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1663. before Mr. Justice <hi>Charleton</hi> and Mr. <hi>Milward,</hi> then Ju<g ref="char:EOLhyphen"/>stices of <hi>Chester,</hi> by a Jury of eminent Gentlemen of that County; At which Tryal, which lasted about eight hours, the said Will came directly in question, as consistent with the limitations and power in the Deed of 17 <hi>Car.</hi> I. and was fully proved by Dr. <hi>Smallwood</hi> and Mr. <hi>Francis Hollinshead</hi> and other Witnesses, all since dead. Where<g ref="char:EOLhyphen"/>upon the said <hi>Fyttons</hi> stood upon the Deed-Poll (which was) no<g ref="char:EOLhyphen"/>duced by the Examiner of the <hi>Chancery,</hi> at this Respondents charge, according to the Decree) and endeavoured to prove the same to be a real Deed; which, if so, had destroyed this Respondents Title un<g ref="char:EOLhyphen"/>der the said Will. But upon a full and clear Evidence, with the ap<g ref="char:EOLhyphen"/>probation of the said Court, it again a ppeared the said Deed-Poll was forged, and a Verdict was found for this Respondent.</p>
+            <p>After which second Tryal, by Order and Decree of the 28th of <hi>November</hi> 1663. the said Court of <hi>Chancery</hi> confirmed the Decree of 1662. and ordered it to be executed, and that the Deed-Poll should be utterly damned, and made void. Since which time, being now twenty Years and upwards, this Respondent hath had the possession of the said Estate, but never got any of the Profits received by the <hi>Fyttons,</hi> nor any Costs.</p>
+            <p>That the Petitioner, with his Accomplices, having published false and libellous Reflections on this Respondents Title, and Proceedings in the said Suits; and the same being taken notice of, and the mat<g ref="char:EOLhyphen"/>ter thereof heard by this Honourable House on the 9th of <hi>July,</hi> 1663. the same was declared and adjudged to be a false, odious and infa<g ref="char:EOLhyphen"/>mous Libel. And it was adjudged by this Honourable House, after a very serious and deliberate consideration of the whole matter, That this Respondent was clear and free from all or any of the matters of the said Libel. And that the Petitioner should undergo the Judg<g ref="char:EOLhyphen"/>ment of the House, whereby he was fined to the King, and this Respondent to proceed at Law for Reparations; and that he should be committed till he produced <hi>Granger;</hi> and that he and his Accom<g ref="char:EOLhyphen"/>plices should find Sureties for their good behaviour during life.</p>
+            <p>That this Respondent prosecuting the faid <hi>Fytton</hi> in the <hi>King</hi>'s-<hi>Bench</hi> for the Forgery of the Deed-Poll, at his humble supplication, after earnest sollicitation, surceased his prosecution.</p>
+            <pb n="4" facs="tcp:206028:3"/>
+            <p>That the Petitioner attempting all ways and means to invalidate this Respondents Title, to expose his Witnesses to the Will, and to lessen the credit of the said Verdicts and Decrees, caused an Informa<g ref="char:EOLhyphen"/>tion of Perjury to be filed against Dr. <hi>Smallwood</hi> and Mr. <hi>Francis Hollinshead,</hi> two of the Witnesses that proved the Will, and Assigned the Perjury in their proving the said Will, which came to be Tried at the <hi>King</hi>'s-<hi>Bench</hi> Bar, in the 20th Year of the Reign of His late Majesty: And upon a full Evidence, to the satisfaction of the Court, they were found not Guilty: whereby the truth of the Will is again justified by another solemn Trial and Verdict at the Bar.</p>
+            <p>That after all these Proceedings, and more than twenty Years un<g ref="char:EOLhyphen"/>interrupted Possession, joyned to these Verdicts, Judgments, Decrees and Proceedings, and the Acquiescence of the Petitioner therein (though at liberty enough during most of the said time to travel in<g ref="char:EOLhyphen"/>to remote parts, and publickly to sollicite and manage his own and other Persons Causes) without Presenting or Prosecuting any Ap<g ref="char:EOLhyphen"/>peal to the Lords in Parliament, or any Bill of Review in <hi>Chancery</hi> till <hi>April</hi> 1684. he was admitted to his Bill of Review, by the pre<g ref="char:EOLhyphen"/>sent Lord Keeper, without paying either the Profits or Costs, a very ra<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and extraordinary dispensation in <hi>Chancery.</hi> And this Respon<g ref="char:EOLhyphen"/>dent pleaded the matters aforesaid in bar thereof; and upon a long debate thereof, his Lordship, who heard no less than Ten Councel for the Petitioner at that time, declared, That he saw no reason to reverse the Decree: therefore dismist the Bill of Review; which dismission is since duly Signed and Inrolled. Wherefore, and in as much as it is now above Forty Years since Sir Edward <hi>Fytton</hi> died, and the Witnesses to his Will are all dead, and the said Decree was made and grounded upon so solemn Proceedings as aforesaid, and an Ac<g ref="char:EOLhyphen"/>quiescence therein for all the said time, and a Bill of Review dismist in <hi>Chancery,</hi> since this Respondent is advised it is without president, and that it would be of dangerous Example and Consequence to draw now, under another or further Examination, any the matters of Fact aforesaid, so solemnly and deliberately settled, and render the Ju<g ref="char:EOLhyphen"/>stice of the Kingdom unstable and unsafe to be relied upon:</p>
+            <p>And therefore he humbly prays the Judgment of this Hono<g ref="char:EOLhyphen"/>rable House, Whether they will be any further troubled in this Matter, but that the said Petition may be dismist with Costs, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
